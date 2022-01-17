@@ -14,6 +14,7 @@ E se você está aqui vendo isso desde já agradeço sua atenção. Programar é
 - [ ] PHP;
 - [ ] Angular.js;
 - [ ] Go;
+- [ ] C/C++;
 - [ ] Elixir/Erlang;
 - [x] Dart para o Flutter;
 - [ ] Python;
