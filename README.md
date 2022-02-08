@@ -10,6 +10,9 @@ E se você está aqui vendo isso desde já agradeço sua atenção. Programar é
 ## Linguagens, Frameworks e tecnologias que aprendi
 - [x] Git;
 - [x] Javascript;
+- [x] Dart;
+- [x] C#;
+- [x] VB;
 - [x] Node.js;
 - [x] React.js;
 - [x] Figma;
