@@ -10,22 +10,11 @@ E se você está aqui vendo isso desde já agradeço sua atenção. Programar é
 ## Linguagens, Frameworks e tecnologias que aprendi
 - [x] Git;
 - [x] Javascript;
-- [x] Dart;
-- [x] C#;
-- [x] VB;
-- [x] Node.js;
-- [x] React.js;
 - [x] Figma;
 - [x] Dart para o Flutter;
 - [x] JSON;
 - [x] SQL (PostgreSQL;
-- [x] Virtual Machine;
 - [x] GML para o Game Maker Studio 2;
-- [ ] PHP;
-- [ ] Angular.js;
-- [ ] Go;
-- [ ] C/C++;
-- [ ] Elixir/Erlang;
 - [ ] Python;
 
 ### Status
